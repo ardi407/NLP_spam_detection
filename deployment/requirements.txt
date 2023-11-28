@@ -1,0 +1,8 @@
+numpy
+seaborn
+pandas
+nltk
+streamlit
+scikit-learn==1.2.2
+tensorflow==2.15.0
+matplotlib==3.8.2
